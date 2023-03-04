@@ -3,7 +3,7 @@
 <img align="center" alt="luffy" src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif">
 
 
-- 📝 Estudando HTML5 e CSS3
+- 📝 Estudando atualmente Python.
 - ✈ Futuro dev back-end
 - ☕ Provavelmente tomando um **café** nesse momento.
 
