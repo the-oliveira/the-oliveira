@@ -4,7 +4,7 @@
 
 
 - 📝 Estudando atualmente Python.
-- ✈ Futuro dev back-end
+- ✈ Futuro Data Scientist.
 - ☕ Provavelmente tomando um **café** nesse momento.
 
 
