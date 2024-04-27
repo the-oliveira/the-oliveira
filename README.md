@@ -1,8 +1,5 @@
 ### Bem-vindo!!😁👋
 
-<img align="center" alt="luffy" src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif">
-
-
 - 📝 Estudando atualmente Python.
 - ✈ Futuro Data Scientist.
 - ☕ Provavelmente tomando um **café** nesse momento.
