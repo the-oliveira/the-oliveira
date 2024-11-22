@@ -1,7 +1,6 @@
 ### Bem-vindo!!😁👋
 
 - 📝 Estudando Python.
-- ✈ Futuro Data Scientist.
 - ☕ Provavelmente tomando um **café** nesse momento.
 
 
