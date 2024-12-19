@@ -1,7 +1,6 @@
 ### Bem-vindo!!😁👋
 
-- 📝 Estudando Python.
-- ☕ Provavelmente tomando um **café** nesse momento.
+📝 Estudando Python...
 
 
 
