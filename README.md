@@ -4,11 +4,5 @@
 
 
 <div>
-<code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>   
-<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  
--
-<div>
 <a href="https://github.com/the-oliveira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=the-oliveira&show_icons=true&include_all_commits=true&theme=maroongold&hide_border=true" alt="the-oliveira's github stats" /></a> <a href="https://github.com/the-oliveira/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-oliveira&layout=compact&theme=maroongold&hide_border=true" /></a> 
 </div>
