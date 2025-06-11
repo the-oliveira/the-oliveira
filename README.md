@@ -1,6 +1,5 @@
-### Bem-vindo!!😁👋
+### Olá, mundo!!😁👋
 
-📝 Estudando....
 
 
 <div>
