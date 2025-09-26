@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm from São Paulo, Brazil<br><br>- 🔭 I’m working as Software Engenier Intern at AR Sistemas Laboratoriais<br>- 📚 I'm currently learning Node.js, Angular and .NET<br>- ⚡ In my free time I watch animes and play games.</p>
+<p align="left">I'm from São Paulo, Brazil<br><br>- 🔭 I’m working as Software Engineer Intern at AR Sistemas Laboratoriais<br>- 📚 I'm currently learning Node.js, Angular and .NET<br>- ⚡ In my free time I watch animes and play games.</p>
 
 ###
 
